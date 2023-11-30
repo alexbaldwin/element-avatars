@@ -34,10 +34,10 @@ http://avatar.simplecasual.com/120/Maria%20Mitchell?colors=264653,2a9d8f,e9c46a,
 Use the parameter `square` to get square-shaped avatars. 
 
 ```
-http://avatar.simplecasual.com/120/Maria%20Mitchell?colors=264653,2a9d8f,e9c46a,f4a261,e76f51?square
+http://avatar.simplecasual.com/120/Maria%20Mitchell?colors=264653,2a9d8f,e9c46a,f4a261,e76f51&square
 ```
 
-![Square avatar for Maria Mitchell](http://avatar.simplecasual.com/120/Maria%20Mitchell?colors=264653,2a9d8f,e9c46a,f4a261,e76f51?square)
+![Square avatar for Maria Mitchell](http://avatar.simplecasual.com/120/Maria%20Mitchell?colors=264653,2a9d8f,e9c46a,f4a261,e76f51&square)
 
 ### Name
 
