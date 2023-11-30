@@ -58,10 +58,23 @@ http://avatar.simplecasual.com/
 ```
 
 ![Random avatar](http://avatar.simplecasual.com/)
-![Random avatar](http://avatar.simplecasual.com/)
-![Random avatar](http://avatar.simplecasual.com/)
-![Random avatar](http://avatar.simplecasual.com/)
-![Random avatar](http://avatar.simplecasual.com/)
-![Random avatar](http://avatar.simplecasual.com/)
 
 
+### Random sampling
+
+![Random sample avatar](http://avatar.simplecasual.com/88/octagon)
+![Random sample avatar](http://avatar.simplecasual.com/88/water)
+![Random sample avatar](http://avatar.simplecasual.com/88/air)
+![Random sample avatar](http://avatar.simplecasual.com/88/lemur)
+![Random sample avatar](http://avatar.simplecasual.com/88/global)
+![Random sample avatar](http://avatar.simplecasual.com/88/beige)
+![Random sample avatar](http://avatar.simplecasual.com/88/vector)
+![Random sample avatar](http://avatar.simplecasual.com/88/munger)
+![Random sample avatar](http://avatar.simplecasual.com/88/pentagram)
+![Random sample avatar](http://avatar.simplecasual.com/88/smile)
+![Random sample avatar](http://avatar.simplecasual.com/88/random)
+![Random sample avatar](http://avatar.simplecasual.com/88/diskutil)
+![Random sample avatar](http://avatar.simplecasual.com/88/squircle)
+![Random sample avatar](http://avatar.simplecasual.com/88/flippy)
+![Random sample avatar](http://avatar.simplecasual.com/88/bookwise)
+![Random sample avatar](http://avatar.simplecasual.com/88/cookie)
