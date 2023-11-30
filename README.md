@@ -25,29 +25,29 @@ http://avatar.simplecasual.com/120
 By default, we are using hard-coded color paletters. You can pass an array of colors using the parameter `color` 
 
 ```
-http://avatar.simplecasual.com/120/Maria%20Mitchell?colors=264653,2a9d8f,e9c46a,f4a261,e76f51
+http://avatar.simplecasual.com/120/Rich%20Rines?colors=264653,2a9d8f,e9c46a,f4a261,e76f51
 ```
 
-![Avatar for Maria Mitchell](http://avatar.simplecasual.com/120/Maria%20Mitchell?colors=264653,2a9d8f,e9c46a,f4a261,e76f51)
+![Avatar for Rich Rines](http://avatar.simplecasual.com/120/Rich%20Rines?colors=264653,2a9d8f,e9c46a,f4a261,e76f51)
 
 ### Square avatars
 Use the parameter `square` to get square-shaped avatars. 
 
 ```
-http://avatar.simplecasual.com/120/Maria%20Mitchell?colors=264653,2a9d8f,e9c46a,f4a261,e76f51&square
+http://avatar.simplecasual.com/120/Rich%20Rines?colors=264653,2a9d8f,e9c46a,f4a261,e76f51&square
 ```
 
-![Square avatar for Maria Mitchell](http://avatar.simplecasual.com/120/Maria%20Mitchell?colors=264653,2a9d8f,e9c46a,f4a261,e76f51&square)
+![Square avatar for Rich Rines](http://avatar.simplecasual.com/120/Rich%20Rines?colors=264653,2a9d8f,e9c46a,f4a261,e76f51&square)
 
 ### Name
 
 You can use a `username`, `email` or any random text to generate a unique `avatar`. 
 
 ```
-http://avatar.simplecasual.com/120/Maria%20Mitchell
+http://avatar.simplecasual.com/120/Rich%20Rines
 ```
 
-![Avatar for Maria Mitchell](http://avatar.simplecasual.com/120/Maria%20Mitchell)
+![Avatar for Rich Rines](http://avatar.simplecasual.com/120/Rich%20Rines)
 
 
 ### Random avatar
