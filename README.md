@@ -78,3 +78,5 @@ http://avatar.simplecasual.com/
 ![Random sample avatar](http://avatar.simplecasual.com/88/flippy)
 ![Random sample avatar](http://avatar.simplecasual.com/88/bookwise)
 ![Random sample avatar](http://avatar.simplecasual.com/88/cookie)
+![Random sample avatar](http://avatar.simplecasual.com/88/chemex)
+![Random sample avatar](http://avatar.simplecasual.com/88/fern)
