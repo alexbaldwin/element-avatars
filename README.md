@@ -1,68 +1,61 @@
-## How to use Boring Avatars service
+## How to use Element Avatars service
 
-To generate a custom avatar just embed the following URL `https://source.boringavatars.com/` and append a variant, size and a username to generate a custom avatar.
+To generate a custom avatar just embed the following URL `http://avatar.simplecasual.com/` and optionally append a size and a username to generate a custom avatar.
 
-### Variants
-You can use one of the variants `marble`, `beam`, `pixel`, `sunset`, `ring` or `bauhaus`. 
-
-```
-https://source.boringavatars.com/beam
-```
-
-![Avatar using marble variant](https://source.boringavatars.com/beam)
-
-### Custom size
+### Custom size (Optional)
 
 ```
-https://source.boringavatars.com/marble/40
+http://avatar.simplecasual.com/40
 
 ```
 
-![Avatar of 120px](https://source.boringavatars.com/marble/40)
+![Avatar of 40px](http://avatar.simplecasual.com/40)
 
 
 ```
-https://source.boringavatars.com/marble/160
+http://avatar.simplecasual.com/120
 
 ```
 
-![Avatar of 120px](https://source.boringavatars.com/marble/120)
+![Avatar of 120px](http://avatar.simplecasual.com/120)
 
 
-### Custom colors
-You can pass an array of colors using the parameter `color` 
+### Custom colors (Optional)
+
+By default, we are using hard-coded color paletters. You can pass an array of colors using the parameter `color` 
 
 ```
-https://source.boringavatars.com/marble/120/Maria%20Mitchell?colors=264653,2a9d8f,e9c46a,f4a261,e76f51
+http://avatar.simplecasual.com/Maria%20Mitchell?colors=264653,2a9d8f,e9c46a,f4a261,e76f51
 ```
-![Avatar for Maria Mitchell](https://source.boringavatars.com/marble/120/Maria%20Mitchell?colors=264653,2a9d8f,e9c46a,f4a261,e76f51)
+
+![Avatar for Maria Mitchell](http://avatar.simplecasual.com/Maria%20Mitchell?colors=264653,2a9d8f,e9c46a,f4a261,e76f51)
 
 ### Square avatars
 Use the parameter `square` to get square-shaped avatars. 
 
 ```
-https://source.boringavatars.com/marble/120/Maria%20Mitchell?square
+http://avatar.simplecasual.com/Maria%20Mitchell?colors=264653,2a9d8f,e9c46a,f4a261,e76f51?square
 ```
-![Square avatar for Maria Mitchell](https://source.boringavatars.com/marble/120/Maria%20Mitchell?square)
 
+![Square avatar for Maria Mitchell](http://avatar.simplecasual.com/Maria%20Mitchell?colors=264653,2a9d8f,e9c46a,f4a261,e76f51?square)
 
 ### Name
 
 You can use a `username`, `email` or any random text to generate a unique `avatar`. 
 
+```
+http://avatar.simplecasual.com/120/Maria%20Mitchell
+```
 
-```
-https://source.boringavatars.com/marble/120/Maria%20Mitchell
-```
-![Avatar for Maria Mitchell](https://source.boringavatars.com/marble/120/Maria%20Mitchell)
+![Avatar for Maria Mitchell](http://avatar.simplecasual.com/120/Maria%20Mitchell)
 
 
 ### Random avatar
-If you just want to use random avatars without providing usernames, you can use the root endpoint. You will receive an `svg` image with a 80*80px size using the `marble` variant.
+If you just want to use random avatars without providing usernames, you can use the root endpoint. You will receive an `svg` image with a 88*88px size.
 
 ```
-https://source.boringavatars.com/
+http://avatar.simplecasual.com/
 ```
 
-![Random avatar](https://source.boringavatars.com/)
+![Random avatar](http://avatar.simplecasual.com/)
 
