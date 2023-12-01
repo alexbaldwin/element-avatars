@@ -2,23 +2,17 @@ const React = require("react");
 const { renderToString } = require("react-dom/server");
 const Avatar = require("boring-avatars").default;
 
-// const DEFAULT_COLORS = [ "#000", "#EFEFEF", "#000", "#FFF", "#000", ].join(",");
-
 const DEFAULT_COLORS = [
-  // Kleurvorm Cool
-  ["#7C17F8", "#5200FF", "#E3B5F9", "#F720FF", "#7B8DF5"].join(","),
-  // Kleurvorm Warm
-  ["#FF0C15", "#E764A8", "#D26FE4", "#FC6A2B", "#FFA902"].join(","),
-  // Element Moon
-  ["#EC618F", "#8963BC", "#B583F8", "#81D0FA", "#33759A"].join(","),
-  // Element Sun
-  ["#983A36", "#EB4374", "#EC666E", "#F19A6D", "#F7CF57"].join(","),
-  // Element Water
-  ["#BB6DF7", "#9960E3", "#3E82A7", "#F3AE76", "#B9FD67"].join(","),
-  // Element Ground
-  ["#84D0E4", "#7DE069", "#D2EE51", "#E48B45", "#E9722D"].join(","),
-  // Element Air
-  ["#7E51F6", "#E0C8FB", "#9946F6", "#82BDEA", "#4250A5"].join(","),
+  // Palette 1
+  ["#FEFEFE", "#FDA9F6", "#FCD0C0", "#B3DEF9", "#BBC0FD"].join(","),
+  // Palette 2
+  ["#FF8FFB", "#FFFEE1", "#AFBAFF", "#FFE4DB", "#FEBDF3"].join(","),
+  // Palette 3
+  ["#FFFAF8", "#E3E3DF", "#B9E8BD", "#D3D8F9", "#EBD9FA"].join(","),
+  // Palette 4
+  ["#FFBB89", "#FFFCC8", "#FFDDAB", "#51A8F5", "#FF7F88"].join(","),
+  // Palette 5
+  ["#FFB1F6", "#8AFEFB", "#838CFD", "#94A6FF", "#DAA3FE"].join(","),
   // Add more color arrays as needed
 ];
 
